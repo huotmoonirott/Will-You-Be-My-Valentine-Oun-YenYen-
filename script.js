@@ -55,8 +55,8 @@
 */
 const messages = [
     "Are you sure princess?",
-    "Really sure :(??",
-    "Please say yes...",
+    "Pkot ort babyy:(?",
+    "Please say yes na naa",
     "Pookie please...",
     "Babyy hor bong ss oun haa :(",
     "If you say no, I will be really sad...",
@@ -79,4 +79,5 @@ function handleNoClick() {
 
 function handleYesClick() {
     window.location.href = "yes_page.html";
+
 }
